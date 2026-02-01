@@ -117,6 +117,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Github Statistics -->
 <h2 style="font-family:Quicksand">📈 Statistics</h2>
 
+![Stats](./profile/stats.svg)
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=blue_green)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydean&theme=default&show_icons=true&hide_border=true&layout=compact)![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebydean&theme=blue_green)
+![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebydean&theme=blue_green)
 
