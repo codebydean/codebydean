@@ -120,32 +120,50 @@
           
     <svg data-testid="lang-items">
       <g transform="translate(0, 0)">
-        <svg data-testid="pie">
+        <svg data-testid="donut">
           
       <g class="stagger" style="animation-delay: 100ms">
-        <path
-          data-testid="lang-pie"
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#f1e05a"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="0"
           size="95.89235127478753"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 237.01910437233903 77.02881208478837 Z"
-          fill="#f1e05a"
+          data-testid="lang-donut"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 200ms">
-        <path
-          data-testid="lang-pie"
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#663399"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="482.0075300805189"
           size="2.4265915760546894"
-          d="M 150 100 L 237.01910437233903 77.02881208478837 A 90 90 0 0 1 239.49842786087675 90.51151168881792 Z"
-          fill="#663399"
+          data-testid="lang-donut"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 300ms">
-        <path
-          data-testid="lang-pie"
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#e34c26"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="494.20490971027294"
           size="1.681057149157775"
-          d="M 150 100 L 239.49842786087675 90.51151168881792 A 90 90 0 0 1 240 99.99999999999997 Z"
-          fill="#e34c26"
+          data-testid="lang-donut"
         />
       </g>
     
