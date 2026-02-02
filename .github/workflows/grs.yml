@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=F5B700&text_color=fff&title_color=0e8763&rank_icon=github&card_width=150px&commits_year=2026&custom_title="GitHub Statistics"
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=F5B700&text_color=fff&title_color=0e8763&rank_icon=github&card_width=150px&commits_year=2026&custom_title=GitHub Statistics
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&langs_count=5&hide_border=true&text_color=fff&title_color=0e8763&bg_color=0d1117&custom_title="Top Languages by Commit"&size_weight=0.5&count_weight=0.5
+          options: username=${{ github.repository_owner }}&layout=donut&langs_count=5&hide_border=true&text_color=fff&title_color=0e8763&bg_color=0d1117&custom_title=Top Languages by Commit&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
