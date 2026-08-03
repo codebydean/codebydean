@@ -116,6 +116,6 @@ Browse through my profile, and you'll discover a collection of my personal proje
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=blue_green) -->
 <!-- ![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebydean&theme=blue_green) -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebydean&custom_title=GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=GitHub%20Statistics&show_icons=true&include_all_commits=true&theme=transparent)
 ![Top Languages](./profile/top-langs.svg)
 <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
